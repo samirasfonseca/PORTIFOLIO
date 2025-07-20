@@ -40,6 +40,8 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 - 💾 [Repositório no GitHub](https://github.com/samirasfonseca/PORTIFOLIO)
 
+
+- 🌐[Site](https://samirasfonseca.github.io/PORTIFOLIO/#Projetos)
 ---
 
 ## 📫 Contato
